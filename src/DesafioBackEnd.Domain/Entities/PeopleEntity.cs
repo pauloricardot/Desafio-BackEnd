@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DesafioBackEnd.Domain.Entities
 {
-    public class PeopleEntity
+    public class PeopleEntity : BaseEntity
     {
 
 
